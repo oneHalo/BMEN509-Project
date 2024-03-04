@@ -19,6 +19,7 @@ Task-based fMRI: Participants were engaged in language (word-stem completion) an
 The dataset reflects variability in the number of frames recorded across different subjects for their respective task runs.
 
 The task paradigm used in this dataset is represented by the following sequence:
+
 80 frames:
 xx----------++++++++++----------++++++++++----------++++++++++----------++++++++
 
