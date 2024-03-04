@@ -10,7 +10,7 @@ We encourage the use of this dataset for further research and analysis in the fi
 
 Dataset Description
 Participants
-The dataset includes data from 40 tumor patients diagnosed. Each participant underwent both task-based and resting-state fMRI scanning. Detailed demographic information (age, sex, handedness, tumor location, tumor pathology) is provided in the patient_demographics.csv file.
+The dataset includes data from 41 tumor patients diagnosed. Each participant underwent both task-based and resting-state fMRI scanning. Detailed demographic information (age, sex, handedness, tumor location, tumor pathology) is provided in the patient_demographics.csv file.
 
 Imaging Data
 Structural data: T1-weighted images for all subjects. Please note that some participants have additional T2-weighted and FLAIR images 
