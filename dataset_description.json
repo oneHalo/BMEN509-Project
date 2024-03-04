@@ -18,5 +18,8 @@
         "https://doi.org/10.1371/journal.pone.0236423"
     ],
     "BIDSVersion": "1.8.0",
-    "DatasetDOI": "https://doi.org/10.18112/openneuro.ds005003.v1.0.0"
+    "DatasetDOI": "https://doi.org/10.18112/openneuro.ds005003.v1.0.0",
+    "EthicsApprovals": [
+        "All aspects of the study were approved by the Institutional Review Board at Washington University School of Medicine in St Louis. Clinical data were acquired during preoperative evaluation and reviewed retrospectively."
+    ]
 }
