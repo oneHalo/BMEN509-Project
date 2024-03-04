@@ -1,0 +1,32 @@
+{
+    "Modality": "MR",
+    "ImagingFrequency": 0,
+    "Manufacturer": "Siemens",
+    "MRAcquisitionType": "3D",
+    "SeriesDescription": "3D Object Data (SAG T1 MPR)",
+    "ProtocolName": "3D Object Data (SAG T1 MPR)",
+    "ScanningSequence": "GR\\IR",
+    "SequenceVariant": "SP\\MP\\OSP",
+    "ScanOptions": "IR",
+    "ImageType": [
+        "ORIGINAL",
+        "PRIMARY",
+        "OTHER"
+    ],
+    "SeriesNumber": 439,
+    "AcquisitionNumber": 1,
+    "SliceThickness": 1.2,
+    "EchoTime": 0.00251,
+    "ReconMatrixPE": 256,
+    "ImageOrientationPatientDICOM": [
+        0.0663259,
+        0.997798,
+        -1.83914e-08,
+        -0.0486958,
+        0.0032369,
+        -0.998808
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20230411",
+    "Dcm2bidsVersion": "3.1.1"
+}
